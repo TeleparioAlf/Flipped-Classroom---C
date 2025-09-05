@@ -1,6 +1,3 @@
-Hier ist dein Aufgabenblatt schön als **Markdown** formatiert und mit passenden Emojis ergänzt:
-
-```markdown
 # 🎓 FH Vorarlberg  
 ## 💻 Programmieren in C  
 ### 📑 Flipped-Classroom Aufgabenblatt  
@@ -17,16 +14,12 @@ Hier ist dein Aufgabenblatt schön als **Markdown** formatiert und mit passenden
 - ➕ **Zeigerarithmetik** anwenden  
 - ⚙️ Einsatz von **Zeigern für Funktionen** und **Parameterübergaben**  
 
----
-
 ## 📚 2. Vorbereitung  
 - 📖 Unterlagen zu **Kapitel 7** lesen  
 - 👩‍💻 Beispiele zur **Deklaration und Verwendung** von Zeigern nachvollziehen  
 - 🔄 Unterschied zwischen **Wert-** und **Referenzübergabe** wiederholen  
-- 📝 Offene Fragen notieren  
-
----
-
+- 📝 Offene Fragen notieren
+- 
 ## 🛠️ 3. Arbeitsaufträge  
 
 ### 🧠 Teil A – Verständnisfragen  
@@ -47,18 +40,11 @@ Hier ist dein Aufgabenblatt schön als **Markdown** formatiert und mit passenden
 11. 🔄 Implementiere ein Programm, das einen **String mit Zeigern umkehrt**.  
 12. 📏 Entwickle ein Programm, das die **Länge eines Strings mit Zeigern** bestimmt.  
 
----
-
 ## 📅 4. Abgabe & Präsenzphase  
 - 📂 Ergebnisse von **Teil A** und **Teil B** vorbereiten  
 - 🗣️ **Teil C Programme** in der Präsenzphase besprechen  
-
----
 
 ## ⚠️ 5. Hinweise  
 - 🚀 Zeiger ermöglichen **effizienten Zugriff auf Speicher**  
 - ❗ Vorsicht: **Falsche Zeiger** führen zu schwerwiegenden Fehlern  
 - 🧮 Mit Zeigern ist **dynamische Speicherverwaltung** möglich (`malloc`, `free`)  
-```
-
-👉 Soll ich dir daraus direkt eine **PDF-Version mit Deckblatt** generieren (wie bei den anderen Kapiteln), oder reicht das Markdown?
